@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
-<a href="https://dev.to/lod9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lod9" height="30" width="40" /></a>
+<a href="https://dev.to/lod9" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="lod9"  /></a>
 <a href="https://discord.gg/fivemdeveloper" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="fivemdeveloper" /></a>
 </p>
 
