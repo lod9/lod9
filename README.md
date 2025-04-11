@@ -34,7 +34,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
-![321](https://github.com/user-attachments/assets/29c61a87-55c0-48af-b6ac-38454a86d1ea)
+
 
 
 
