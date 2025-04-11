@@ -33,6 +33,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+![Frame 583](https://github.com/user-attachments/assets/02cbe182-269a-451a-a1ef-f88271165d62)
+
+
 
 
 
