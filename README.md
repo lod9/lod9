@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="center">Full Stack Fivem Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/fivemdeveloper](https://discord.gg/fivemdeveloper)
+
+- 👨‍💻 All of my projects are available at my discord server
 
 - 💬 Ask me about **vue,tailwind and lua**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://dev.to/lod9" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="lod9"  /></a>
-<a href="https://discord.gg/fivemdeveloper" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="fivemdeveloper" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
